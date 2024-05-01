@@ -1,0 +1,7 @@
+node_modules/
+tailwind.config.js
+dist/
+.parcel-cache/
+firebase-debug.log
+package-lock.json
+.postcssrc
